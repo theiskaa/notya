@@ -1,9 +1,3 @@
-//
-// Copyright 2021-present Insolite. All rights reserved.
-// Use of this source code is governed by Apache 2.0 license
-// that can be found in the LICENSE file.
-//
-
 package pkg_test
 
 import (
@@ -13,8 +7,8 @@ import (
 
 	"github.com/briandowns/spinner"
 	"github.com/fatih/color"
-	"github.com/insolite-dev/nt/lib/models"
-	"github.com/insolite-dev/nt/pkg"
+	"github.com/theiskaa/nt/lib/models"
+	"github.com/theiskaa/nt/pkg"
 )
 
 func TestAlert(t *testing.T) {

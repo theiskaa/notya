@@ -1,16 +1,10 @@
-//
-// Copyright 2021-present Insolite. All rights reserved.
-// Use of this source code is governed by Apache 2.0 license
-// that can be found in the LICENSE file.
-//
-
 package models_test
 
 import (
 	"testing"
 
-	"github.com/insolite-dev/nt/lib/models"
-	"github.com/insolite-dev/nt/lib/services"
+	"github.com/theiskaa/nt/lib/models"
+	"github.com/theiskaa/nt/lib/services"
 )
 
 func TestFolderToNode(t *testing.T) {

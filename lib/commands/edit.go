@@ -1,19 +1,13 @@
-//
-// Copyright 2021-present Insolite. All rights reserved.
-// Use of this source code is governed by Apache 2.0 license
-// that can be found in the LICENSE file.
-//
-
 package commands
 
 import (
 	"os"
 
 	"github.com/AlecAivazis/survey/v2"
-	"github.com/insolite-dev/nt/assets"
-	"github.com/insolite-dev/nt/lib/models"
-	"github.com/insolite-dev/nt/pkg"
 	"github.com/spf13/cobra"
+	"github.com/theiskaa/nt/assets"
+	"github.com/theiskaa/nt/lib/models"
+	"github.com/theiskaa/nt/pkg"
 )
 
 // editCommand is a command model which used to overwrite body of notes or files.

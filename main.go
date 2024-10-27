@@ -5,7 +5,7 @@
 package main
 
 import (
-	"github.com/insolite-dev/nt/cmd"
+	"github.com/theiskaa/nt/cmd"
 )
 
 func main() {

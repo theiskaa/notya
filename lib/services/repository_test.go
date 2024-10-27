@@ -1,15 +1,9 @@
-//
-// Copyright 2021-present Insolite. All rights reserved.
-// Use of this source code is governed by Apache 2.0 license
-// that can be found in the LICENSE file.
-//
-
 package services_test
 
 import (
 	"testing"
 
-	"github.com/insolite-dev/nt/lib/services"
+	"github.com/theiskaa/nt/lib/services"
 )
 
 func TestServiceTypeToStr(t *testing.T) {

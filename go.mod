@@ -1,4 +1,4 @@
-module github.com/insolite-dev/nt
+module github.com/theiskaa/nt
 
 go 1.17
 

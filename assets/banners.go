@@ -1,9 +1,3 @@
-//
-// Copyright 2021-present Insolite. All rights reserved.
-// Use of this source code is governed by Apache 2.0 license
-// that can be found in the LICENSE file.
-//
-
 package assets
 
 import "fmt"
@@ -17,7 +11,7 @@ var MinimalisticBanner = `
  | \ | | |_   _|
  |  \| |   | |
  | |\  |   | |
- |_| \_|   |_| @ Insolite
+ |_| \_|   |_|
 
 `
 

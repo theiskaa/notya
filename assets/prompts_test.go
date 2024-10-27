@@ -1,16 +1,10 @@
-//
-// Copyright 2021-present Insolite. All rights reserved.
-// Use of this source code is governed by Apache 2.0 license
-// that can be found in the LICENSE file.
-//
-
 package assets_test
 
 import (
 	"testing"
 
 	"github.com/AlecAivazis/survey/v2"
-	"github.com/insolite-dev/nt/assets"
+	"github.com/theiskaa/nt/assets"
 )
 
 func TestChoseNotePrompt(t *testing.T) {
